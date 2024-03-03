@@ -1,4 +1,4 @@
 # ApnaCollege-demo
 This is my first Repository
 <br>
-Author - Pratiksha
+Author - Pratiksha[Apna college]
